@@ -17,6 +17,7 @@ public class Program {
 	cal.add(Calendar.HOUR_OF_DAY, 4);
 	d=cal.getTime();
 	System.out.println(sdf.format(d));
+	System.out.println("ok");
 	}
 
 }
